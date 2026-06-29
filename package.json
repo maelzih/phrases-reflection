@@ -1,0 +1,15 @@
+{
+  "name": "claude-quotes",
+  "version": "1.0.0",
+  "description": "Coleta frases de filosofia e estudo da internet, traduz para português (pt-BR) e gera um quotes.json consumido por uma statusline do Claude Code.",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node src/fetch-quotes.js",
+    "start": "node src/fetch-quotes.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,44 @@
+name: Atualizar frases
+
+# Roda diariamente, ao dar push e sob demanda (botão "Run workflow")
+on:
+  schedule:
+    - cron: '0 6 * * *' # todo dia às 06:00 UTC (~03:00 BRT)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - '.github/workflows/update-quotes.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gerar quotes.json
+        run: node src/fetch-quotes.js
+        env:
+          QUOTES_TARGET: '120'
+
+      - name: Commitar se houver mudança
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain quotes.json)" ]; then
+            git add quotes.json
+            git commit -m "chore: atualiza frases ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "Sem mudanças em quotes.json."
+          fi
