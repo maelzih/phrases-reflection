@@ -7,10 +7,10 @@
   {
     "text": "Pensar é o capital, a empresa é o caminho, o trabalho árduo é a solução.",
     "author": "Abdul Kalam",
-    "category": "Vida Empresarial"
+    "category": "Sabedoria"
   },
   {
-    "text": "Esses capitalistas geralmente agem de forma harmoniosa e em conjunto, para atacar o povo.",
+    "text": "O Senhor prefere pessoas de aparência comum. É por isso que ele faz tantos deles.",
     "author": "Abraham Lincoln",
     "category": "Vida Social"
   },
@@ -42,7 +42,7 @@
   {
     "text": "Tenha zelo pela morte e você terá vida.",
     "author": "Abu Bakr (R.A)",
-    "category": "Motivação"
+    "category": "Vida Empresarial"
   },
   {
     "text": "É normal doar um pouco da vida para não perder tudo.",
@@ -53,6 +53,16 @@
     "text": "A coisa mais difícil de entender no mundo é o imposto de renda.",
     "author": "Albert Einstein",
     "category": "Sabedoria"
+  },
+  {
+    "text": "O orgulho no caso de um homem rico é ruim, mas o orgulho no caso de um homem pobre é pior.",
+    "author": "Abu Bakr",
+    "category": "Finanças"
+  },
+  {
+    "text": "É normal doar um pouco da vida para não perder tudo.",
+    "author": "Albert Camus",
+    "category": "Motivação"
   },
   {
     "text": "Educação é o que resta depois que alguém esquece o que aprendeu na escola.",
@@ -70,7 +80,7 @@
     "category": "Motivação"
   },
   {
-    "text": "Se você deseja descrever a verdade, deixe a elegância para o alfaiate.",
+    "text": "Olhe profundamente para a natureza e então você entenderá tudo melhor.",
     "author": "Albert Einstein",
     "category": "Sabedoria"
   },
@@ -180,6 +190,11 @@
     "category": "Vida Empresarial"
   },
   {
+    "text": "Para ter sucesso, seu desejo de sucesso deve ser maior que seu medo do fracasso.",
+    "author": "Bill Cosby",
+    "category": "Vida Empresarial"
+  },
+  {
     "text": "Não há problema em comemorar o sucesso, mas é mais importante prestar atenção às lições do fracasso.",
     "author": "Bill Gates",
     "category": "Vida Empresarial"
@@ -275,9 +290,9 @@
     "category": "Motivação"
   },
   {
-    "text": "A vida não foge de ninguém. A vida corre nas pessoas.",
-    "author": "Joe Frazier",
-    "category": "Vida Social"
+    "text": "O avião teve um grande impacto na minha vida.",
+    "author": "Jim Courier",
+    "category": "Motivação"
   },
   {
     "text": "Se uma sociedade livre não pode ajudar os muitos pobres, não pode salvar os poucos ricos.",
@@ -475,9 +490,29 @@
     "category": "Vida Social"
   },
   {
-    "text": "Um coração cheio de amor é como uma fênix que nenhuma gaiola consegue aprisionar.",
+    "text": "O caminho do meio é o caminho para a sabedoria.",
+    "author": "Rumi",
+    "category": "Sabedoria"
+  },
+  {
+    "text": "Onde quer que você esteja e faça o que fizer, esteja apaixonado.",
     "author": "Rumi",
     "category": "Vida Social"
+  },
+  {
+    "text": "Procure a resposta dentro da sua pergunta.",
+    "author": "Rumi",
+    "category": "Motivação"
+  },
+  {
+    "text": "Um coração cheio de amor é como uma fênix que nenhuma gaiola pode aprisionar.",
+    "author": "Rumi",
+    "category": "Vida Social"
+  },
+  {
+    "text": "Viva a vida como se ela estivesse manipulada a seu favor.",
+    "author": "Rumi",
+    "category": "Motivação"
   },
   {
     "text": "Viva a vida como se ela estivesse manipulada a seu favor.",
@@ -510,8 +545,8 @@
     "category": "Vida Empresarial"
   },
   {
-    "text": "Nenhuma grande coisa intelectual jamais foi feita com grande esforço.",
-    "author": "Theodore Roosevelt",
+    "text": "Não há substituto para o trabalho duro.",
+    "author": "Thomas A. Edison",
     "category": "Vida Empresarial"
   },
   {
@@ -525,7 +560,12 @@
     "category": "Vida Empresarial"
   },
   {
-    "text": "O mais sábio entre vocês é aquele cujo sustento é o temor de Allah.",
+    "text": "Não deixe o trabalho de hoje para amanhã.",
+    "author": "Umar ibn Al-Khattāb (R.A)",
+    "category": "Vida Empresarial"
+  },
+  {
+    "text": "Paciência é o ingrediente mais saudável da nossa vida.",
     "author": "Umar ibn Al-Khattāb (R.A)",
     "category": "Motivação"
   },
@@ -572,7 +612,7 @@
   {
     "text": "Deixe cada olho negociar por si mesmo e não confiar em nenhum agente.",
     "author": "William Shakespeare",
-    "category": "Vida Social"
+    "category": "Motivação"
   },
   {
     "text": "Quem poderia abster-se de ter um coração para amar e nesse coração coragem para tornar o amor conhecido?",
