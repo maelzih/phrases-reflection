@@ -39,7 +39,7 @@ git init
 git add .
 git commit -m "feat: gerador de frases pt-BR de filosofia e estudo"
 git branch -M main
-git remote add origin https://github.com/<SEU_USUARIO>/claude-quotes.git
+git remote add origin https://github.com/maelzih/phrases-reflection.git
 git push -u origin main
 ```
 
@@ -53,13 +53,13 @@ manualmente em **Actions → Atualizar frases → Run workflow**.
 Copie a URL **raw** do `quotes.json`:
 
 ```
-https://raw.githubusercontent.com/<SEU_USUARIO>/claude-quotes/main/quotes.json
+https://raw.githubusercontent.com/maelzih/phrases-reflection/main/quotes.json
 ```
 
 E cole na constante `QUOTES_URL` do seu `~/.claude/statusline.js`:
 
 ```js
-const QUOTES_URL = 'https://raw.githubusercontent.com/<SEU_USUARIO>/claude-quotes/main/quotes.json';
+const QUOTES_URL = 'https://raw.githubusercontent.com/maelzih/phrases-reflection/main/quotes.json';
 ```
 
 A statusline baixa as frases em segundo plano, guarda em cache por algumas horas
