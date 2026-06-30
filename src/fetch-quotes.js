@@ -2,9 +2,10 @@
 'use strict';
 
 /**
- * claude-quotes — busca frases de filosofia e estudo na internet,
- * traduz para português (pt-BR) e gera ../quotes.json no formato:
- *   [ { "text": "...", "author": "...", "tags": ["..."] }, ... ]
+ * claude-quotes — busca frases curtas (finanças, vida empresarial, vida social,
+ * estudo, sabedoria...) na internet, traduz para português (pt-BR) e gera
+ * ../quotes.json no formato:
+ *   [ { "text": "...", "author": "...", "category": "Finanças" }, ... ]
  *
  * Requer Node 18+ (usa fetch nativo). Sem dependências externas.
  */
@@ -17,16 +18,26 @@ const path = require('path');
 // ---------------------------------------------------------------------------
 const OUT_FILE = path.join(__dirname, '..', 'quotes.json');
 const TARGET = Number(process.env.QUOTES_TARGET || 120); // quantas frases gerar
-const MAX_LEN = Number(process.env.QUOTES_MAXLEN || 160); // descarta frases longas demais
+const MAX_LEN = Number(process.env.QUOTES_MAXLEN || 90); // frases CURTAS (máx. de caracteres)
 const TRANSLATE_DELAY = 350; // ms entre traduções (evita bloqueio)
 
-// Palavras-chave para manter o tema (filosofia / estudo / sabedoria)
+// Palavras-chave que mantêm o material no tema (várias categorias de vida)
 const KEYWORDS =
-  /\b(philosoph|wisdom|wise|knowledg|educat|learn|stud(y|ies|ent)|teach|truth|reason|reflect|intellect|intelligen|book|read|scien|understand|ignoran|question|curious|disciplin|virtue|moral|ethic|contemplat|thought|thinking|mind|memor|doubt|wonder|school)\b/i;
+  /\b(philosoph|wisdom|wise|knowledg|educat|learn|stud(y|ies|ent)|teach|truth|reason|reflect|intellect|intelligen|book|read|scien|understand|ignoran|question|curious|disciplin|virtue|moral|ethic|thought|thinking|mind|doubt|wonder|school|money|wealth|rich|invest|save|fortune|economy|business|work|leader|success|goal|ambition|career|effort|opportunit|habit|time|life|character|courage|fear|friend|love|people|society|family|kind|trust|happ)\b/i;
 
-// Remove frases claramente fora do tema ou impróprias para uma statusline de estudo
+// Remove apenas o que é claramente impróprio para uma statusline
 const BLOCKLIST =
-  /\b(sex|sexy|naked|nude|porn|orgasm|drunk|booze|gun|kill|murder|money|rich|celebrity|hollywood|instagram|selfie|fashion)\b/i;
+  /\b(sex|sexy|naked|nude|porn|orgasm|drunk|booze|celebrity|hollywood|instagram|selfie)\b/i;
+
+// Categorização (pt-BR) por palavra-chave, em ordem de prioridade. Casado no texto EN.
+const CATEGORIES = [
+  ['Finanças', /\b(money|wealth|rich|riches|invest|saving|poverty|poor|gold|fortune|economy|debt|profit|coin|finance|budget)\b/i],
+  ['Vida Empresarial', /\b(business|work|leader|success|career|company|ambition|achiev|effort|opportunit|productiv|goal|enterprise|boss|deal|hustle|management)\b/i],
+  ['Vida Social', /\b(friend|love|people|society|family|relationship|kindness|together|community|trust|enemy|neighbor|social)\b/i],
+  ['Estudo', /\b(learn|stud(y|ies|ent)|educat|book|read|school|teach|lesson)\b/i],
+  ['Sabedoria', /\b(philosoph|wisdom|wise|truth|knowledge|mind|reason|virtue|ignoran|understand|doubt)\b/i],
+];
+const categorize = (t) => (CATEGORIES.find(([, re]) => re.test(t)) || ['Motivação'])[0];
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -188,7 +199,7 @@ async function main() {
     const q = subset[i];
     try {
       const text = await translate(q.text);
-      result.push({ text, author: q.author || 'Desconhecido', tags: q.tags });
+      result.push({ text, author: q.author || 'Desconhecido', category: categorize(q.text) });
       process.stdout.write(`\r   ${i + 1}/${subset.length} ok   `);
     } catch (e) {
       process.stdout.write(`\r   ${i + 1}/${subset.length} pulada (${e.message})\n`);
