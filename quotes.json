@@ -50,6 +50,13 @@
     "category": "Estudo"
   },
   {
+    "text": "Educação é o que resta depois que alguém esquece o que aprendeu na escola.",
+    "author": "Albert Einstein",
+    "tags": [
+      "estudo"
+    ]
+  },
+  {
     "text": "Exigiremos uma maneira de pensar substancialmente nova para que a humanidade sobreviva.",
     "author": "Albert Einstein",
     "category": "Motivação"
@@ -80,7 +87,14 @@
     "category": "Finanças"
   },
   {
-    "text": "Amar uns aos outros é metade da sabedoria.",
+    "text": "Aperfeiçoar o intelecto faz com que falemos menos, e as palavras proferidas serão adornadas com sabedoria.",
+    "author": "Ali ibn Abi Talib (R.A)",
+    "tags": [
+      "estudo"
+    ]
+  },
+  {
+    "text": "Aquele que não tem controle sobre seus desejos não tem controle sobre sua mente.",
     "author": "Ali ibn Abi Talib (R.A)",
     "category": "Sabedoria"
   },
@@ -550,7 +564,7 @@
     "category": "Vida Social"
   },
   {
-    "text": "É dos livros que as pessoas sábias obtêm consolo nos problemas da vida.",
+    "text": "Quando um homem está fora de vista, não demora muito para que ele esteja fora de vista.",
     "author": "Victor Hugo",
     "category": "Vida Social"
   },
