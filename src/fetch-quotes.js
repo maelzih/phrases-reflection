@@ -22,7 +22,11 @@ const TRANSLATE_DELAY = 350; // ms entre traduções (evita bloqueio)
 
 // Palavras-chave para manter o tema (filosofia / estudo / sabedoria)
 const KEYWORDS =
-  /\b(learn|study|knowledg|educat|wis(dom|e)|mind|truth|think|reason|philosoph|teach|book|read|scien|understand|ignoran|question|curious|disciplin|school|student|intellig|memor|wonder|doubt|virtue)\b/i;
+  /\b(philosoph|wisdom|wise|knowledg|educat|learn|stud(y|ies|ent)|teach|truth|reason|reflect|intellect|intelligen|book|read|scien|understand|ignoran|question|curious|disciplin|virtue|moral|ethic|contemplat|thought|thinking|mind|memor|doubt|wonder|school)\b/i;
+
+// Remove frases claramente fora do tema ou impróprias para uma statusline de estudo
+const BLOCKLIST =
+  /\b(sex|sexy|naked|nude|porn|orgasm|drunk|booze|gun|kill|murder|money|rich|celebrity|hollywood|instagram|selfie|fashion)\b/i;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -44,8 +48,11 @@ async function getJSON(url, { timeout = 12000 } = {}) {
 // ---------------------------------------------------------------------------
 // 1. Coleta de frases (várias fontes; falhas são toleradas)
 // ---------------------------------------------------------------------------
+function accept(text) {
+  return typeof text === 'string' && text.length <= MAX_LEN && !BLOCKLIST.test(text);
+}
 function onTheme(text) {
-  return typeof text === 'string' && text.length <= MAX_LEN && KEYWORDS.test(text);
+  return accept(text) && KEYWORDS.test(text);
 }
 
 async function collectFromStoic() {
@@ -55,7 +62,7 @@ async function collectFromStoic() {
     for (let i = 0; i < 3; i++) {
       const data = await getJSON('https://stoic-quotes.com/api/quotes');
       for (const r of data || []) {
-        if (r.text && r.text.length <= MAX_LEN) {
+        if (accept(r.text)) {
           out.push({ text: r.text, author: r.author || 'Desconhecido', tags: ['filosofia'] });
         }
       }
