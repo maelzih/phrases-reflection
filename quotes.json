@@ -1,6 +1,16 @@
 [
   {
-    "text": "Quando a mãe está feliz, a família está feliz. Quando a família está feliz, a nação está feliz.",
+    "text": "Pensar é o capital, a empresa é o caminho, o trabalho árduo é a solução.",
+    "author": "Abdul Kalam",
+    "category": "Vida Empresarial"
+  },
+  {
+    "text": "Sucesso é quando sua assinatura vira autógrafo.",
+    "author": "Abdul Kalam",
+    "category": "Vida Empresarial"
+  },
+  {
+    "text": "Um melhor livro equivale a cem bons amigos, mas um bom amigo equivale a uma biblioteca.",
     "author": "Abdul Kalam",
     "category": "Vida Social"
   },
@@ -15,24 +25,14 @@
     "category": "Sabedoria"
   },
   {
-    "text": "O pensamento científico e sua criação são patrimônio comum e compartilhado da humanidade.",
-    "author": "Abdus Salam",
-    "category": "Motivação"
-  },
-  {
     "text": "Esses capitalistas geralmente agem de forma harmoniosa e em conjunto, para atacar o povo.",
     "author": "Abraham Lincoln",
     "category": "Vida Social"
   },
   {
-    "text": "O Senhor prefere pessoas de aparência comum. É por isso que ele faz tantos deles.",
-    "author": "Abraham Lincoln",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Aquele que aspira ao paraíso deve aprender a tratar as pessoas com bondade.",
+    "text": "Aquele que tem medo de chorar deve aprender a ser gentil com aqueles que choram.",
     "author": "Abu Bakr (R.A)",
-    "category": "Vida Empresarial"
+    "category": "Estudo"
   },
   {
     "text": "As pessoas que abandonam a Jihad são vítimas da humildade e da degradação.",
@@ -45,9 +45,19 @@
     "category": "Motivação"
   },
   {
-    "text": "Conheço apenas um dever: amar.",
-    "author": "Albert Camus",
-    "category": "Vida Social"
+    "text": "O conhecimento é a vida da mente.",
+    "author": "Abu Bakr (R.A)",
+    "category": "Sabedoria"
+  },
+  {
+    "text": "Quanto mais conhecimento você tiver, maior será o seu medo de Allah.",
+    "author": "Abu Bakr (R.A)",
+    "category": "Sabedoria"
+  },
+  {
+    "text": "Tenha zelo pela morte e você terá vida.",
+    "author": "Abu Bakr (R.A)",
+    "category": "Motivação"
   },
   {
     "text": "É normal doar um pouco da vida para não perder tudo.",
@@ -55,14 +65,9 @@
     "category": "Motivação"
   },
   {
-    "text": "Eu sou um descrente profundamente religioso - este é um tipo um tanto novo de religião.",
+    "text": "Educação é o que resta depois que alguém esquece o que aprendeu na escola.",
     "author": "Albert Einstein",
-    "category": "Motivação"
-  },
-  {
-    "text": "Exigiremos uma maneira de pensar substancialmente nova para que a humanidade sobreviva.",
-    "author": "Albert Einstein",
-    "category": "Motivação"
+    "category": "Estudo"
   },
   {
     "text": "Olhe profundamente para a natureza e então você entenderá tudo melhor.",
@@ -70,12 +75,17 @@
     "category": "Sabedoria"
   },
   {
-    "text": "Uma pergunta que às vezes me deixa confuso: sou eu ou os outros loucos?",
-    "author": "Albert Einstein",
+    "text": "A recitação do Alcorão sem contemplação e pensamento é fútil.",
+    "author": "Ali ibn Abi Talib (R.A)",
     "category": "Motivação"
   },
   {
-    "text": "Amar uns aos outros é metade da sabedoria.",
+    "text": "A riqueza tende a criar inimigos, enquanto o conhecimento tende a aquecer os corações.",
+    "author": "Ali ibn Abi Talib (R.A)",
+    "category": "Finanças"
+  },
+  {
+    "text": "Aquele que não tem controle sobre seus desejos não tem controle sobre sua mente.",
     "author": "Ali ibn Abi Talib (R.A)",
     "category": "Sabedoria"
   },
@@ -85,9 +95,14 @@
     "category": "Vida Social"
   },
   {
-    "text": "O pior dos nossos defeitos é o nosso interesse pelos defeitos dos outros.",
+    "text": "De todas as loucuras a maior é amar o mundo.",
     "author": "Ali ibn Abi Talib (R.A)",
     "category": "Vida Social"
+  },
+  {
+    "text": "Não há riqueza como a educação e não há pobreza como a ignorância.",
+    "author": "Ali ibn Abi Talib (R.A)",
+    "category": "Finanças"
   },
   {
     "text": "Pessoas bonitas nem sempre são boas, mas pessoas boas são sempre bonitas.",
@@ -95,27 +110,32 @@
     "category": "Vida Social"
   },
   {
-    "text": "Quando for provado que ele está errado, o homem sábio se corrigirá e o ignorante continuará discutindo.",
-    "author": "Ali ibn Abi Talib (R.A)",
+    "text": "O fracasso não é o oposto do sucesso; Faz parte do sucesso.",
+    "author": "Arianna Huffington",
+    "category": "Vida Empresarial"
+  },
+  {
+    "text": "A lei é razão, livre de paixão.",
+    "author": "Aristotle",
     "category": "Sabedoria"
   },
   {
-    "text": "A preguiça pode parecer atraente, mas o trabalho dá satisfação.",
-    "author": "Anne Frank",
-    "category": "Vida Empresarial"
+    "text": "Aqueles que sabem, fazem. Aqueles que entendem, ensinam.",
+    "author": "Aristotle",
+    "category": "Estudo"
   },
   {
-    "text": "Alcançar a vida não é o equivalente a evitar a morte.",
-    "author": "Ayn Rand",
+    "text": "O caráter pode quase ser considerado o meio mais eficaz de persuasão.",
+    "author": "Aristotle",
     "category": "Motivação"
   },
   {
-    "text": "Aplausos aguardam o sucesso.",
+    "text": "Não tema os erros. Você conhecerá o fracasso. Continue a entrar em contato.",
     "author": "Benjamin Franklin",
-    "category": "Vida Empresarial"
+    "category": "Motivação"
   },
   {
-    "text": "Não tema os erros. Você conhecerá o fracasso. Continue a entrar em contato.",
+    "text": "O tempo perdido nunca mais é encontrado.",
     "author": "Benjamin Franklin",
     "category": "Motivação"
   },
@@ -125,39 +145,19 @@
     "category": "Motivação"
   },
   {
-    "text": "Trabalhe como se fosse viver cem anos. Ore como se você fosse morrer amanhã.",
+    "text": "Ser ignorante não é tanto uma vergonha, mas não ter vontade de aprender.",
     "author": "Benjamin Franklin",
-    "category": "Vida Empresarial"
+    "category": "Estudo"
   },
   {
-    "text": "A boa vida é inspirada no amor e guiada pelo conhecimento.",
-    "author": "Bertrand Russell",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Para ter sucesso, seu desejo de sucesso deve ser maior que seu medo do fracasso.",
-    "author": "Bill Cosby",
-    "category": "Vida Empresarial"
-  },
-  {
-    "text": "Uma palavra para os sábios não é necessária - são os estúpidos que precisam de conselhos.",
-    "author": "Bill Cosby",
-    "category": "Sabedoria"
-  },
-  {
-    "text": "A propriedade intelectual tem a vida útil de uma banana.",
+    "text": "O sucesso é um péssimo professor. Isso seduz pessoas inteligentes a pensar que não podem perder.",
     "author": "Bill Gates",
-    "category": "Motivação"
-  },
-  {
-    "text": "Uma explicação da causa não é uma justificativa pela razão.",
-    "author": "C. S. Lewis",
-    "category": "Sabedoria"
-  },
-  {
-    "text": "Você nunca está velho demais para definir outra meta ou sonhar um novo sonho.",
-    "author": "C. S. Lewis",
     "category": "Vida Empresarial"
+  },
+  {
+    "text": "Se você ama a vida, não perca tempo, pois a vida é feita de tempo.",
+    "author": "Bruce Lee",
+    "category": "Vida Social"
   },
   {
     "text": "A própria essência do instinto é que ele é seguido independentemente da razão.",
@@ -170,8 +170,18 @@
     "category": "Sabedoria"
   },
   {
-    "text": "Nem um navio deveria depender de uma pequena âncora, nem a vida deveria repousar numa única esperança.",
-    "author": "Epictetus",
+    "text": "Você pode viver uma vida inteira sem nunca estar acordado.",
+    "author": "Dan Millman",
+    "category": "Motivação"
+  },
+  {
+    "text": "Nenhum homem pode ficar rico a menos que enriqueça os outros.",
+    "author": "Earl Nightingale",
+    "category": "Finanças"
+  },
+  {
+    "text": "É melhor ser um leão por um dia do que uma ovelha a vida toda.",
+    "author": "Elizabeth Kenny",
     "category": "Motivação"
   },
   {
@@ -180,9 +190,9 @@
     "category": "Vida Social"
   },
   {
-    "text": "Durante toda a minha vida olhei para as palavras como se as estivesse vendo pela primeira vez.",
+    "text": "As guerras são causadas por riqueza indefesa.",
     "author": "Ernest Hemingway",
-    "category": "Motivação"
+    "category": "Finanças"
   },
   {
     "text": "Eu amo dormir. Minha vida tem tendência a desmoronar quando estou acordado, sabe?",
@@ -190,27 +200,12 @@
     "category": "Vida Social"
   },
   {
-    "text": "Na guerra moderna... você morrerá como um cachorro sem um bom motivo.",
-    "author": "Ernest Hemingway",
-    "category": "Sabedoria"
-  },
-  {
     "text": "As condenações são inimigas mais perigosas da verdade do que das mentiras.",
     "author": "Friedrich Nietzsche",
     "category": "Sabedoria"
   },
   {
-    "text": "Os jogos amorosos, assim chamados, têm ilusão pelo pai e necessidade da mãe.",
-    "author": "Friedrich Nietzsche",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Quando cem homens se unem, cada um deles perde a cabeça e pega outro.",
-    "author": "Friedrich Nietzsche",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Toda credibilidade, toda boa consciência, toda evidência da verdade vêm somente dos sentidos.",
+    "text": "Às vezes podemos contar uma mentira, mas a careta que a acompanha diz a verdade.",
     "author": "Friedrich Nietzsche",
     "category": "Sabedoria"
   },
@@ -220,24 +215,19 @@
     "category": "Vida Social"
   },
   {
-    "text": "O sucesso é construído sequencialmente. É uma coisa de cada vez.",
-    "author": "Gary Keller",
-    "category": "Vida Empresarial"
-  },
-  {
-    "text": "Com Deus no comando, acredito que tudo dará certo no final.",
-    "author": "Henry Ford",
-    "category": "Vida Empresarial"
-  },
-  {
     "text": "O fracasso é simplesmente a oportunidade de começar de novo, desta vez de forma mais inteligente.",
     "author": "Henry Ford",
     "category": "Motivação"
   },
   {
-    "text": "O avião teve um grande impacto na minha vida.",
-    "author": "Jim Courier",
-    "category": "Motivação"
+    "text": "Tenho uma teoria de que a verdade nunca é dita durante as nove às cinco horas.",
+    "author": "Hunter S. Thompson",
+    "category": "Sabedoria"
+  },
+  {
+    "text": "A vida não foge de ninguém. A vida corre nas pessoas.",
+    "author": "Joe Frazier",
+    "category": "Vida Social"
   },
   {
     "text": "Esforços e coragem não são suficientes sem propósito e direção.",
@@ -245,9 +235,14 @@
     "category": "Motivação"
   },
   {
-    "text": "O tempo que você gosta de desperdiçar não foi desperdiçado.",
-    "author": "John Lennon",
-    "category": "Motivação"
+    "text": "Aprender nunca esgota a mente.",
+    "author": "Leonardo Da Vinci",
+    "category": "Sabedoria"
+  },
+  {
+    "text": "Aquele que está fixo em uma estrela não muda de ideia.",
+    "author": "Leonardo Da Vinci",
+    "category": "Sabedoria"
   },
   {
     "text": "Assim como a coragem põe a vida em perigo, o medo a protege.",
@@ -255,14 +250,24 @@
     "category": "Motivação"
   },
   {
-    "text": "Ficar em pé - não endireitado.",
+    "text": "Não o “não”, mas o “ainda não”.",
     "author": "Marcus Aurelius",
     "category": "Motivação"
   },
   {
-    "text": "Coragem é resistência ao medo, domínio do medo, não ausência de medo.",
+    "text": "Não quero ganhar dinheiro, só quero ser maravilhoso.",
+    "author": "Marilyn Monroe",
+    "category": "Finanças"
+  },
+  {
+    "text": "Faça a coisa certa. Isso irá gratificar algumas pessoas e surpreender o resto.",
     "author": "Mark Twain",
-    "category": "Motivação"
+    "category": "Vida Social"
+  },
+  {
+    "text": "Por que a verdade não deveria ser mais estranha que a ficção? Afinal, a ficção tem que fazer sentido.",
+    "author": "Mark Twain",
+    "category": "Sabedoria"
   },
   {
     "text": "Quando as pessoas ruivas estão acima de um determinado nível social, seu cabelo é castanho-avermelhado.",
@@ -270,29 +275,9 @@
     "category": "Vida Social"
   },
   {
-    "text": "Se você contar a verdade, não precisará se lembrar de nada.",
-    "author": "Mark Twain",
-    "category": "Sabedoria"
-  },
-  {
-    "text": "Sempre que você estiver do lado da maioria, é hora de fazer uma pausa e refletir.",
+    "text": "Sempre que você estiver do lado da maioria, é hora de fazer reformas.",
     "author": "Mark Twain",
     "category": "Motivação"
-  },
-  {
-    "text": "A hora é sempre certa para fazer o que é certo.",
-    "author": "Martin Luther King  Jr.",
-    "category": "Motivação"
-  },
-  {
-    "text": "A pergunta mais persistente e urgente da vida é: 'O que você está fazendo pelos outros?'",
-    "author": "Martin Luther King  Jr.",
-    "category": "Motivação"
-  },
-  {
-    "text": "Eu decidi ficar com o amor. O ódio é um fardo muito grande para carregar.",
-    "author": "Martin Luther King  Jr.",
-    "category": "Vida Social"
   },
   {
     "text": "O amor é a única força capaz de transformar um inimigo em amigo.",
@@ -300,22 +285,12 @@
     "category": "Vida Social"
   },
   {
-    "text": "A qualidade, não a longevidade, da vida de alguém é o que importa.",
-    "author": "Martin Luther King, Jr.",
-    "category": "Motivação"
+    "text": "A fome de amor é muito mais difícil de eliminar do que a fome de pão.",
+    "author": "Mother Teresa",
+    "category": "Vida Social"
   },
   {
-    "text": "Aprendi que ganhar a 'vida' não é a mesma coisa que 'ganhar a vida'.",
-    "author": "Maya Angelou",
-    "category": "Motivação"
-  },
-  {
-    "text": "Nada funcionará a menos que você faça.",
-    "author": "Maya Angelou",
-    "category": "Vida Empresarial"
-  },
-  {
-    "text": "Espalhe amor onde quer que você vá. Que ninguém venha até você sem sair mais feliz.",
+    "text": "O amor começa cuidando dos mais próximos – os que estão em casa.",
     "author": "Mother Teresa",
     "category": "Vida Social"
   },
@@ -325,19 +300,24 @@
     "category": "Vida Social"
   },
   {
-    "text": "O milagre não é que façamos esse trabalho, mas que estejamos felizes em fazê-lo.",
+    "text": "O que você pode fazer para promover a paz mundial? Vá para casa e ame sua família.",
     "author": "Mother Teresa",
-    "category": "Vida Empresarial"
+    "category": "Vida Social"
   },
   {
-    "text": "Esta vida não é real. Conquistei o mundo e isso não me trouxe satisfação.",
-    "author": "Muhammad Ali",
-    "category": "Motivação"
+    "text": "Se realmente quisermos amar, devemos aprender a perdoar.",
+    "author": "Mother Teresa",
+    "category": "Vida Social"
   },
   {
-    "text": "Minha riqueza está em meu conhecimento de mim mesmo, do amor e da espiritualidade.",
+    "text": "É apenas um trabalho. A grama cresce, os pássaros voam, as ondas batem na areia. Eu bati nas pessoas.",
     "author": "Muhammad Ali",
-    "category": "Finanças"
+    "category": "Vida Social"
+  },
+  {
+    "text": "Há uma razão pela qual sou conhecido: levar as pessoas a Alá, a Deus.",
+    "author": "Muhammad Ali",
+    "category": "Vida Social"
   },
   {
     "text": "Ninguém começa por cima. Você tem que trabalhar para subir.",
@@ -345,32 +325,47 @@
     "category": "Vida Empresarial"
   },
   {
-    "text": "Visão sem poder traz elevação moral, mas não pode proporcionar uma cultura duradoura.",
-    "author": "Muhammad Iqbal",
-    "category": "Motivação"
-  },
-  {
-    "text": "As pessoas devem aprender a odiar e, se aprenderem a odiar, poderão ser ensinadas a amar.",
-    "author": "Nelson Mandela",
+    "text": "Numa competição de amor, todos partilharemos a vitória, independentemente de quem chegar primeiro.",
+    "author": "Muhammad Ali",
     "category": "Vida Social"
   },
   {
-    "text": "Transforme suas feridas em sabedoria.",
-    "author": "Oprah Winfrey",
+    "text": "O que você está pensando é o que você está se tornando.",
+    "author": "Muhammad Ali",
+    "category": "Motivação"
+  },
+  {
+    "text": "Quem não tem coragem suficiente para correr riscos não realizará nada na vida.",
+    "author": "Muhammad Ali",
+    "category": "Motivação"
+  },
+  {
+    "text": "Se minha mente puder conceber isso e meu coração puder acreditar, então poderei alcançá-lo.",
+    "author": "Muhammad Ali",
     "category": "Sabedoria"
   },
   {
-    "text": "Quando sou presenteado com um bom trabalho, eu aceito. Onde quer que esteja.",
-    "author": "Phylicia Rashad",
+    "text": "Temos uma vida; logo passará; o que fazemos para Deus é tudo o que durará.",
+    "author": "Muhammad Ali",
+    "category": "Motivação"
+  },
+  {
+    "text": "Você sabe que está no caminho do sucesso se fizer seu trabalho e não for pago por isso.",
+    "author": "Oprah Winfrey",
     "category": "Vida Empresarial"
   },
   {
-    "text": "Você não aprende a andar seguindo regras. Você aprende fazendo e caindo.",
-    "author": "Richard Branson",
-    "category": "Estudo"
+    "text": "O sucesso de um minuto compensa o fracasso de anos.",
+    "author": "Robert Browning",
+    "category": "Vida Empresarial"
   },
   {
     "text": "A perda real só é possível quando você ama algo mais do que a si mesmo.",
+    "author": "Robin Williams",
+    "category": "Vida Social"
+  },
+  {
+    "text": "As pessoas dizem que a sátira está morta. Não está morto; Está vivo e morando na Casa Branca.",
     "author": "Robin Williams",
     "category": "Vida Social"
   },
@@ -380,9 +375,9 @@
     "category": "Vida Social"
   },
   {
-    "text": "A vida é equilíbrio entre segurar e deixar ir.",
+    "text": "Acenda o fogo do amor dentro de si e apague os pensamentos.",
     "author": "Rumi",
-    "category": "Motivação"
+    "category": "Vida Social"
   },
   {
     "text": "Amar é chegar a Deus.",
@@ -390,64 +385,54 @@
     "category": "Vida Social"
   },
   {
-    "text": "Coloque fogo em sua vida. Procure aqueles que atiçam suas chamas.",
-    "author": "Rumi",
-    "category": "Motivação"
-  },
-  {
-    "text": "Deixe a beleza do que você ama ser o que você faz.",
+    "text": "As pessoas do mundo não olham para si mesmas e por isso culpam umas às outras.",
     "author": "Rumi",
     "category": "Vida Social"
   },
   {
-    "text": "Deixe de lado sua mente e então fique atento. Feche os ouvidos e ouça!",
+    "text": "Busque a sabedoria que vai desatar o seu nó. Busque o caminho que exige todo o seu ser.",
     "author": "Rumi",
     "category": "Sabedoria"
   },
   {
-    "text": "Em todas as religiões existe amor, mas o amor não tem religião.",
+    "text": "Coração, seja corajoso. Se você não consegue ser corajoso, vá. A glória do amor não é uma coisa pequena.",
     "author": "Rumi",
     "category": "Vida Social"
   },
   {
-    "text": "Estou tão louco de amor que os loucos me dizem - fique quieto!",
-    "author": "Rumi",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Mova-se, mas não se mova do jeito que o medo faz você se mover.",
+    "text": "Deixe o silêncio levá-lo ao âmago da vida.",
     "author": "Rumi",
     "category": "Motivação"
   },
   {
-    "text": "Na sua luz aprendo a amar.",
-    "author": "Rumi",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Não sente e espere. Vá lá, sinta a vida. Toque o sol e mergulhe no mar.",
+    "text": "Esqueça a segurança. Viva onde você tem medo de viver. Destrua sua reputação. Seja notório.",
     "author": "Rumi",
     "category": "Motivação"
   },
   {
-    "text": "O amor é a ponte entre você e tudo.",
+    "text": "Fale qualquer idioma, turco, grego, persa, árabe, mas fale sempre com amor.",
     "author": "Rumi",
     "category": "Vida Social"
   },
   {
-    "text": "Onde quer que você esteja e faça o que fizer, esteja apaixonado.",
+    "text": "Ó Amor, ó puro e profundo Amor, esteja aqui, esteja agora, seja tudo...",
     "author": "Rumi",
     "category": "Vida Social"
   },
   {
-    "text": "Purifique seus olhos e veja o mundo puro. Sua vida se encherá de formas radiantes.",
+    "text": "Seja sincero. Seja gentil. Esteja apaixonado.",
+    "author": "Rumi",
+    "category": "Vida Social"
+  },
+  {
+    "text": "Um coração cheio de amor é como uma fênix que nenhuma gaiola pode aprisionar.",
+    "author": "Rumi",
+    "category": "Vida Social"
+  },
+  {
+    "text": "Use a gratidão como uma capa e ela alimentará todos os cantos da sua vida.",
     "author": "Rumi",
     "category": "Motivação"
-  },
-  {
-    "text": "Viajar traz poder e amor de volta à sua vida.",
-    "author": "Rumi",
-    "category": "Vida Social"
   },
   {
     "text": "Você é a alma da alma do universo e seu nome é Amor.",
@@ -455,19 +440,29 @@
     "category": "Vida Social"
   },
   {
-    "text": "Você nasceu com asas, por que prefere rastejar pela vida?",
-    "author": "Rumi",
+    "text": "Muitas vezes, um homem muito velho não tem outra prova de sua longa vida além da idade.",
+    "author": "Seneca",
     "category": "Motivação"
   },
   {
-    "text": "A inovação distingue entre um líder e um seguidor.",
-    "author": "Steve Jobs",
-    "category": "Vida Empresarial"
+    "text": "Não considero um homem pobre, se o pouco que resta lhe basta.",
+    "author": "Seneca",
+    "category": "Finanças"
   },
   {
-    "text": "Nenhuma grande coisa intelectual jamais foi feita com grande esforço.",
-    "author": "Theodore Roosevelt",
-    "category": "Vida Empresarial"
+    "text": "Todo o futuro está na incerteza: viva imediatamente.",
+    "author": "Seneca",
+    "category": "Motivação"
+  },
+  {
+    "text": "A ficção é a verdade dentro da mentira.",
+    "author": "Stephen King",
+    "category": "Sabedoria"
+  },
+  {
+    "text": "Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa.",
+    "author": "Steve Jobs",
+    "category": "Motivação"
   },
   {
     "text": "Eu não falhei. Acabei de encontrar 10.000 maneiras que não funcionam.",
@@ -475,49 +470,39 @@
     "category": "Vida Empresarial"
   },
   {
-    "text": "Na minha opinião, os velhos mestres não são arte; Seu valor está na escassez.",
-    "author": "Thomas A. Edison",
-    "category": "Sabedoria"
+    "text": "Aprenda a língua árabe; isso irá aguçar sua sabedoria.",
+    "author": "Umar ibn Al-Khattāb (R.A)",
+    "category": "Estudo"
   },
   {
-    "text": "Não há substituto para o trabalho duro.",
-    "author": "Thomas A. Edison",
+    "text": "Às vezes, as pessoas com o pior passado criam o melhor futuro.",
+    "author": "Umar ibn Al-Khattāb (R.A)",
+    "category": "Vida Social"
+  },
+  {
+    "text": "Não deixe o trabalho de hoje para amanhã, para que o trabalho não se acumule e você não consiga nada.",
+    "author": "Umar ibn Al-Khattāb (R.A)",
     "category": "Vida Empresarial"
   },
   {
-    "text": "A qualidade da sua vida é determinada pela qualidade das perguntas que você faz.",
-    "author": "Tony Robbins",
-    "category": "Motivação"
+    "text": "Perdoe as pessoas para que Allah possa perdoá-lo.",
+    "author": "Umar ibn Al-Khattāb (R.A)",
+    "category": "Vida Social"
   },
   {
-    "text": "A morte é professora suficiente, a verdadeira fé é riqueza suficiente e a adoração é ação suficiente.",
+    "text": "Quem você acha que é mais bonito, as pessoas do norte ou as do sul?",
+    "author": "Umar ibn Al-Khattāb (R.A)",
+    "category": "Vida Social"
+  },
+  {
+    "text": "Sente-se com aqueles que amam a Allah, pois isso ilumina a mente.",
+    "author": "Umar ibn Al-Khattāb (R.A)",
+    "category": "Vida Social"
+  },
+  {
+    "text": "Temei a Allah, pois isso é fortuna; indiferença a Allah é infortúnio.",
     "author": "Umar ibn Al-Khattāb (R.A)",
     "category": "Finanças"
-  },
-  {
-    "text": "Não deixe o trabalho de hoje para amanhã.",
-    "author": "Umar ibn Al-Khattāb (R.A)",
-    "category": "Vida Empresarial"
-  },
-  {
-    "text": "O mais sábio entre vocês é aquele cujo sustento é o temor de Allah.",
-    "author": "Umar ibn Al-Khattāb (R.A)",
-    "category": "Motivação"
-  },
-  {
-    "text": "Se Allah quer que um povo fique doente, ele lhes dá debates e lhes tira ações.",
-    "author": "Umar ibn Al-Khattāb (R.A)",
-    "category": "Vida Social"
-  },
-  {
-    "text": "Tema a Allah, pois só Ele vive; todas as outras coisas estão sujeitas a perecer.",
-    "author": "Umar ibn Al-Khattāb (R.A)",
-    "category": "Motivação"
-  },
-  {
-    "text": "As pessoas pensam no que não querem e atraem mais do mesmo.",
-    "author": "Unknown",
-    "category": "Vida Social"
   },
   {
     "text": "A paz é a virtude da civilização. A guerra é o seu crime.",
@@ -525,19 +510,24 @@
     "category": "Sabedoria"
   },
   {
+    "text": "Amar outra pessoa é ver a face de Deus.",
+    "author": "Victor Hugo",
+    "category": "Vida Social"
+  },
+  {
     "text": "É dos livros que as pessoas sábias obtêm consolo nos problemas da vida.",
     "author": "Victor Hugo",
     "category": "Vida Social"
   },
   {
-    "text": "Quando um homem está fora de vista, não demora muito para que ele esteja fora de vista.",
-    "author": "Victor Hugo",
-    "category": "Sabedoria"
+    "text": "As pinturas têm vida própria que deriva da alma do pintor.",
+    "author": "Vincent Van Gogh",
+    "category": "Motivação"
   },
   {
-    "text": "Quando você está curioso, você encontra muitas coisas interessantes para fazer.",
-    "author": "Walt Disney",
-    "category": "Motivação"
+    "text": "Coloquei meu coração e minha alma em meu trabalho e perdi a cabeça no processo.",
+    "author": "Vincent Van Gogh",
+    "category": "Vida Empresarial"
   },
   {
     "text": "Um homem nunca deve negligenciar sua família nos negócios.",
@@ -545,19 +535,24 @@
     "category": "Vida Empresarial"
   },
   {
-    "text": "Deixe Blockheads ler o que Blockheads escreveu.",
+    "text": "Se a história passada fosse tudo o que havia no jogo, as pessoas mais ricas seriam os bibliotecários.",
     "author": "Warren Buffett",
-    "category": "Estudo"
+    "category": "Vida Social"
   },
   {
-    "text": "No mundo dos negócios, o espelho retrovisor é sempre mais claro que o para-brisa.",
-    "author": "Warren Buffett",
-    "category": "Vida Empresarial"
-  },
-  {
-    "text": "A natureza criou companheiros estranhos em sua época.",
+    "text": "Assim que acender o fogo com neve, como procurar apagar o fogo do amor com palavras.",
     "author": "William Shakespeare",
-    "category": "Motivação"
+    "category": "Vida Social"
+  },
+  {
+    "text": "Deixe cada olho negociar por si mesmo e não confiar em nenhum agente.",
+    "author": "William Shakespeare",
+    "category": "Vida Social"
+  },
+  {
+    "text": "O amor do céu torna alguém celestial.",
+    "author": "William Shakespeare",
+    "category": "Vida Social"
   },
   {
     "text": "Quem poderia abster-se de ter um coração para amar e nesse coração coragem para tornar o amor conhecido?",
@@ -570,7 +565,17 @@
     "category": "Motivação"
   },
   {
-    "text": "Ganhamos a vida com o que recebemos, mas ganhamos a vida com o que damos.",
+    "text": "Estou sempre pronto para aprender, embora nem sempre goste de ser ensinado.",
+    "author": "Winston Churchill",
+    "category": "Estudo"
+  },
+  {
+    "text": "Jogue o jogo por mais do que você pode perder... Só então você aprenderá o jogo.",
+    "author": "Winston Churchill",
+    "category": "Estudo"
+  },
+  {
+    "text": "Não se sai de uma festa de convívio antes da hora de fechar.",
     "author": "Winston Churchill",
     "category": "Motivação"
   },
@@ -580,23 +585,18 @@
     "category": "Vida Empresarial"
   },
   {
-    "text": "Uma mentira dá a volta ao mundo antes que a verdade tenha a chance de vestir as calças.",
-    "author": "Winston Churchill",
-    "category": "Sabedoria"
-  },
-  {
-    "text": "Você tem inimigos? Bom. Isso significa que você defendeu algo, em algum momento da sua vida.",
-    "author": "Winston Churchill",
-    "category": "Motivação"
-  },
-  {
-    "text": "A maneira como você vê as pessoas é a maneira como você as trata.",
-    "author": "Zig Ziglar",
+    "text": "Algumas pessoas são velhas aos 18 anos e outras jovens aos 90. O tempo é um conceito que os humanos criaram.",
+    "author": "Yoko Ono",
     "category": "Vida Social"
   },
   {
-    "text": "O pensamento positivo permitirá que você faça tudo melhor do que o pensamento negativo.",
+    "text": "Muitas pessoas desistem de procurar trabalho assim que encontram um emprego.",
     "author": "Zig Ziglar",
-    "category": "Motivação"
+    "category": "Vida Empresarial"
+  },
+  {
+    "text": "O sucesso depende das glândulas - glândulas sudoríparas.",
+    "author": "Zig Ziglar",
+    "category": "Vida Empresarial"
   }
 ]
